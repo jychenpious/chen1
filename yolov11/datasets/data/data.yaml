@@ -1,0 +1,11 @@
+train: F:/project114/600mosun/code/datasets/data/train
+val: F:/project114/600mosun/code/datasets/data/val
+test: F:/project114/600mosun/code/datasets/data/test
+nc: 4
+names:
+- Tool-wear-class-0
+- Tool-wear-class-1
+- Tool-wear-class-2
+- Tool-wear-class-3
+nc: 4
+names: ['Tool-wear-class-0', 'Tool-wear-class-1', 'Tool-wear-class-2', 'Tool-wear-class-3']
